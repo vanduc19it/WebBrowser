@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\WebBrowser-LTM\WebBrowser-LTM\obj\x64\Debug\WebBrowser-LTM.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\WebBrowser-LTM\WebBrowser-LTM\obj\x64\Debug\WebBrowser_LTM.Form1.resources
+C:\Users\acer\source\repos\WebBrowser-LTM\WebBrowser-LTM\obj\x64\Debug\WebBrowser_LTM.Form2.resources
+C:\Users\acer\source\repos\WebBrowser-LTM\WebBrowser-LTM\obj\x64\Debug\WebBrowser_LTM.Properties.Resources.resources
+C:\Users\acer\source\repos\WebBrowser-LTM\WebBrowser-LTM\obj\x64\Debug\WebBrowser-LTM.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\WebBrowser-LTM\WebBrowser-LTM\obj\x64\Debug\WebBrowser-LTM.csproj.CoreCompileInputs.cache
